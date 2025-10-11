@@ -1,4 +1,3 @@
-````markdown
 # nostr-contact-form
 
 A privacy-respecting contact form that uses Nostr relays to send encrypted direct messages without requiring a traditional backend server.
@@ -133,5 +132,3 @@ Public domain
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
-````
