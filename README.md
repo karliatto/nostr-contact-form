@@ -14,7 +14,13 @@ A privacy-respecting contact form that uses Nostr relays to send encrypted direc
 
 ## Quick Start
 
-## Build
+## Just use
+
+You can edit the contact-selfcontained.html, which contains both HTML and JavaScript. Just edit the meta tags at the top of the file and you are good to go.
+
+## Alternative: Full build
+
+If you want to build from source, you can:
 
 ```bash
 npm install
